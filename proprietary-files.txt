@@ -17,5 +17,6 @@ vendor/firmware/a530v3_gpmu.fw2
 vendor/firmware/a530v3_seq.fw2
 
 # WiFi
-vendor/etc/firmware/fw_bcmdhd.bin
-vendor/etc/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/fw_bcmdhd.bin
+vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/fw_bcmdhd_mfg.bin
