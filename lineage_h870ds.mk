@@ -25,8 +25,8 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/lge/h870ds/device.mk)
 
 # Security patch level
-PLATFORM_SECURITY_PATCH_OVERRIDE := 2021-07-05
-	
+PLATFORM_SECURITY_PATCH_OVERRIDE := 2021-08-05
+
 VENDOR_SECURITY_PATCH := $(PLATFORM_SECURITY_PATCH_OVERRIDE)
 
 # Set those variables here to overwrite the inherited values.
